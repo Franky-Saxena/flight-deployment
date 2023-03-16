@@ -19,4 +19,6 @@ Prepare your dataset:
 5. Building Flask API
 6. Pushing code to Github
 ```
+
+## Demo
 ![App Screenshot](https://raw.githubusercontent.com/Franky-Saxena/flight-deployment/main/Untitled1.png)
